@@ -54,6 +54,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHIJWTYV
 
+[Document2]
+DocumentPath=RezanFelez.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HPEGIVEV
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1038,7 +1055,7 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Relay.SchLib
+ComponentLibraryIdentifier0=RezanFelez.SCHLIB
 ComponentDesignItemID0=HRS2H-S-DC24V
 ComponentSymbolReference0=HRS2H-S-DC24V
 ComponentUpdate0=1
