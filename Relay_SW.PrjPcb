@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEWVNSIY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Relay_SW\Design Rule Check - Relay_SW.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
